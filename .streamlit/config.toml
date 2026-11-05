@@ -1,0 +1,11 @@
+# ExportSight theme — navy blue / white / subtle teal
+[theme]
+primaryColor = "#0E7C7B"          # subtle teal (accents, buttons)
+backgroundColor = "#FFFFFF"       # white
+secondaryBackgroundColor = "#F1F5F9"
+textColor = "#0F2A44"             # navy blue text
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
