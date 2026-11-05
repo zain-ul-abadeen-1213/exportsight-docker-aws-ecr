@@ -1,4 +1,4 @@
-# ExportSight — Docker image (Project 10: Local to Cloud Containerization)
+# ExportSight — Docker image (Local to Cloud Containerization)
 # Stage 1: dependencies (layer caching: requirements first)
 FROM python:3.12-slim AS builder
 WORKDIR /build

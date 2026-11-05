@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Docker](https://img.shields.io/badge/Docker-Multi--Stage%20Build-2496ED) ![AWS](https://img.shields.io/badge/AWS-ECR%20%7C%20ap--south--1-orange)
 
-**DevOps Project 10 — Local to Cloud Containerization**
+**Local to Cloud Containerization — Docker & AWS ECR**
 
 ExportSight is a Business Intelligence dashboard for small export businesses (orders, payments, profitability, PDF reports), built with Streamlit, Pandas, Plotly and SQLite. This repository contains the full application together with its production-style Docker packaging and proof of its published image on **Amazon Elastic Container Registry (ECR)**.
 
@@ -76,7 +76,6 @@ streamlit run app.py
 ## Notes
 
 - The data shipped with this project is **fictional demo data** (a sample textile exporter) created for demonstration purposes.
-- This is Project 10 of a 20-project hands-on DevOps series (Docker → CI/CD → Terraform → Kubernetes), each project documented with a verifiable deliverable.
 
 ## Author
 
