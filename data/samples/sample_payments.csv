@@ -1,0 +1,2 @@
+payment_id,invoice_id,payment_date,amount,currency,reference,notes
+PAY-3901,INV-2901,2026-10-05,5000,USD,TT-SAMPLE-01,Sample row

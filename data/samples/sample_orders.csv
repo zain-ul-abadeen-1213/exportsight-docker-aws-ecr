@@ -1,0 +1,4 @@
+order_id,order_date,buyer_id,destination_country,product,quantity,unit_price,currency,production_status,shipment_status,expected_delivery_date,actual_delivery_date,notes
+ORD-9001,2026-09-01,BYR-001,Germany,Cotton Bed Sheet Set,1000,12.5,USD,Pending,Pending,2026-11-15,,Sample row - replace with your data
+ORD-9002,2026-09-05,BYR-002,UAE,Denim Fabric Roll,500,8.75,USD,In Production,Pending,2026-11-20,,Sample row - replace with your data
+ORD-9003,2026-09-10,BYR-003,Canada,Bath Towel Bundle,2000,4.2,USD,Completed,Shipped,2026-10-25,,Sample row - replace with your data
